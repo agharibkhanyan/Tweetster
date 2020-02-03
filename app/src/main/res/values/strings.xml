@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter</string>
+    <string name="login_label">Log in</string>
+    <string name="intent_scheme">oauth</string>
+    <string name="intent_host">cprest</string>
+    <string name="compose">compose</string>
+    <string name="tweet">TWEET</string>
+    <string name="tweet_hint">Dump your brain here.</string>
+    <string name="reply">Reply</string>
+    <string name="retweet">Retweet</string>
+    <string name="favorite">Favorite</string>
+    <string name="prifile_image" />
+
+
+</resources>
