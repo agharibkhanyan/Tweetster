@@ -84,7 +84,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src="post.gif" width=250><br>
-<img src="persistance.gif" width=250><br>
+<img src="persistence.gif" width=250><br>
 
 
 I spent about 5 hours trying to figure out how to switch the views according to the screen we visit. Also, a lot of time went into trying to access the user retweet count and favorite count.
